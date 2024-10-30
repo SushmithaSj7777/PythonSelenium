@@ -4,19 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d4c413e-9f7a-4528-9fd5-d70cd52be08a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonSelenium.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Circle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/find_Age.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/launchDriver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/number of links and images.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webdrivermanager_crossbrowsertesting.py" afterDir="false" />
+    <list default="true" id="5d4c413e-9f7a-4528-9fd5-d70cd52be08a" name="Changes" comment="Push code">
+      <change afterPath="$PROJECT_DIR$/Greenkart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RegisterPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shapes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_Mini_Project3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chromeoptionsdemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/count_freq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/count_of_charecters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lengthofstring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/locatetable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task2RS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_logging.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonSelenium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonSelenium.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launchDriver.py" beforeDir="false" afterPath="$PROJECT_DIR$/launchDriver.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,17 +51,203 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Circle.executor": "Run",
-    "Python.find_Age.executor": "Run",
-    "Python.launchDriver.executor": "Run",
-    "Python.number of links and images.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for allure_test.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for pytest_1.TestHRM.test_Login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for pytest_1.test_logo.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for pytest_1.test_subtraction.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for pytest_1.test_testcase1.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in Task1.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Circle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Greenkart.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RegisterPage.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Shapes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Stack.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.chromeoptionsdemo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.count_of_charecters.executor&quot;: &quot;Run&quot;,
+    &quot;Python.find_Age.executor&quot;: &quot;Run&quot;,
+    &quot;Python.launchDriver.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lengthofstring.executor&quot;: &quot;Run&quot;,
+    &quot;Python.locatetable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.number of links and images.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task2RS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_logging.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ssj/PycharmProjects/pythonSelenium/pytest_1/test_logging.py&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ssj\PycharmProjects\pythonSelenium" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test_logging">
+    <configuration name="Greenkart" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonSelenium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Greenkart.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chromeoptionsdemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonSelenium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chromeoptionsdemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task2RS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonSelenium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task2RS.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonSelenium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_logging" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonSelenium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.8" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\ssj\PycharmProjects\pythonSelenium\test_logging.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for allure_test" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonSelenium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;allure_test&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in Task1.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonSelenium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Task1.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.test_logging" />
+      <item itemvalue="Python.Greenkart" />
+      <item itemvalue="Python.chromeoptionsdemo" />
+      <item itemvalue="Python.task2RS" />
+      <item itemvalue="Python.task3" />
+      <item itemvalue="Python tests.Python tests for allure_test" />
+      <item itemvalue="Python tests.Python tests in Task1.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.task3" />
+        <item itemvalue="Python.chromeoptionsdemo" />
+        <item itemvalue="Python.Greenkart" />
+        <item itemvalue="Python.task2RS" />
+        <item itemvalue="Python tests.Python tests in Task1.py" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -71,6 +264,19 @@
       <option name="presentableId" value="Default" />
       <updated>1722083479325</updated>
     </task>
+    <task id="LOCAL-00001" summary="Push code">
+      <option name="closed" value="true" />
+      <created>1723900554874</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723900554874</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Push code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Push code" />
   </component>
 </project>
