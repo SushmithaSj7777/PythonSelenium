@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","43720","test_logo","","Sun Sep 01 10:25:11 IST 2024","passed","Sun Sep 01 10:25:54 IST 2024","TestHRM","allure_test","",""
+"","13648","test_Login","","Sun Sep 01 10:25:55 IST 2024","broken","Sun Sep 01 10:26:08 IST 2024","TestHRM","allure_test","",""
+"","0","test_listemployees","","Sun Sep 01 10:25:54 IST 2024","broken","Sun Sep 01 10:25:54 IST 2024","TestHRM","allure_test","",""
